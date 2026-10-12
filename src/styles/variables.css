@@ -1,0 +1,38 @@
+:root {
+  --primary-color: #8b5cf6;
+  --primary-hover-color: #7c3aed;
+  --secondary-color: #a78bfa;
+  --accent-color: #c4b5fd;
+  --primary-background-color: #08090d;
+  --secondary-background-color: #111218;
+  --card-background-color: #15151d;
+  --surface-hover-color: #1c1c27;
+  --heading-color: #f9fafb;
+  --body-text-color: #d1d5db;
+  --muted-text-color: #9ca3af;
+  --link-color: #a78bfa;
+  --primary-border-color: #2b2937;
+  --hover-border-color: #8b5cf6;
+  --heading-font: "Inter", sans-serif;
+  --body-font: "Inter", sans-serif;
+  --code-font: "Fira Code", monospace;
+  --heading-font-size-xl: clamp(2.6rem, 5vw, 4.25rem);
+  --heading-font-size-lg: clamp(2rem, 3.5vw, 2.75rem);
+  --heading-font-size-md: 1.75rem;
+  --body-font-size: 1rem;
+  --small-font-size: 0.875rem;
+  --heading-font-weight: 700;
+  --subheading-font-weight: 600;
+  --body-font-weight: 400;
+  --container-max-width: 1200px;
+  --section-spacing: clamp(4rem, 8vw, 6.5rem);
+  --card-padding: 1.5rem;
+  --element-spacing: 1rem;
+  --card-border-radius: 1rem;
+  --button-border-radius: 0.625rem;
+  --pill-border-radius: 999px;
+  --card-shadow: 0 8px 30px rgb(0 0 0 / 20%);
+  --primary-glow: 0 0 20px rgb(139 92 246 / 12%);
+  --transition-fast: 180ms ease;
+  --transition-base: 300ms ease;
+}
